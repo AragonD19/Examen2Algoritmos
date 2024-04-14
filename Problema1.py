@@ -43,5 +43,5 @@ def count_combinations(n):
     return total_combinations
 
 # Ejemplo de uso
-n = 2
+n = 10
 print("Cantidad de combinaciones posibles para n =", n, ":", count_combinations(n))
